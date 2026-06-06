@@ -1,6 +1,6 @@
 cask "quotawarmer" do
   version "1.0.0"
-  sha256 "526ed5a8be93d9f38af721361d868d2f026a8128c020b1c044817bdef3ef7920"
+  sha256 "7b4a8133750f9df29ee064d98a5c7cd525b66f5a6d2b99f0ca43c0855c6bdf02"
 
   url "https://github.com/bcanozgur/quota-warmer/releases/download/v#{version}/QuotaWarmer-#{version}-universal.dmg"
   name "QuotaWarmer"
